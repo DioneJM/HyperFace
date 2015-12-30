@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dionemorales@outlook.com",
+    "longName": "HyperFace",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "HyperFace",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "7de1a7a1-6416-4296-bfe2-7883d195c71e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
